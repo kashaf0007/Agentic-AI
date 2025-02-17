@@ -24,7 +24,6 @@ const Footer = () => {
             <FaTwitter className="text-3xl hover:text-white transition" />
           </div>
         </div>
-
         {/* Links Section */}
         <div className="flex flex-wrap justify-center md:justify-start flex-grow">
           {/* Product Section */}
