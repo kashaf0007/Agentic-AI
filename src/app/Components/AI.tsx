@@ -1,6 +1,3 @@
-
-
-
 import React from 'react'
 import { BiCodeAlt } from 'react-icons/bi'
 import { FiCpu } from 'react-icons/fi'
