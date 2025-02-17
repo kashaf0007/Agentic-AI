@@ -18,7 +18,6 @@ const Home = () => {
       <Solution/>
       <Price/>
       <Contact/>
-    
       <Footer/>
     </div>
   )
